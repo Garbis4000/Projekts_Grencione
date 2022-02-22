@@ -23,7 +23,7 @@ print(y)
 9 Saukums Krists
 
 10 Sprūģis Gabriels
-
+x=2+2
 11 Stankevičs Viesturs
 
 12 Strazds Emīls
